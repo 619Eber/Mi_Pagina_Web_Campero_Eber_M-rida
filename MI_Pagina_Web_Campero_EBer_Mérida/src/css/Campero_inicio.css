@@ -1,0 +1,71 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.barraIncio {
+    height: 50px;
+    background-color: rgb(246, 129, 4)
+}
+
+.inicio a{
+    margin-left: 30px;
+    padding-top: 100px;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.inicio img{
+    height: 40px;
+}
+
+.barraGeneral{
+    height: 50px;
+    background-color: rgb(248, 227, 204);
+}
+
+.btnNav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnNav a{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 25px;
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.icon1{
+    width: 50px;
+}
+
+.carousel{
+    margin: 5px;
+    height: 400px;
+    width: 1200px;
+    background-color: rgb(255, 255, 255);
+}
+
+.logo img{
+    height: 50px;
+}
+
+.cartas{
+    margin: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 25px;
+    display: flex;
+}
+
+.card-img-top{
+    width: 300px;
+}
